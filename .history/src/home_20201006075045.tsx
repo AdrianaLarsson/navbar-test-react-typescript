@@ -5,15 +5,12 @@ import './App.css';
 function Home() {
   return (
   
-      <div>
-     <h1>Home </h1>
-     <h1>in home  </h1>
-      </div>
       
-
-
-
-  )
+      
+     <h1>Home </h1>
+     <p>in hommmmmee </p>
+ 
+  );
 }
 
 export default Home;
